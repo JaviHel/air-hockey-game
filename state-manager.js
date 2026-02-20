@@ -255,7 +255,7 @@ class Options extends States {
         this.freeRoamToggle = ["DISABLED", "ENABLED"]
 
         
-        this.sfxIndex = 1
+        this.sfxIndex = 0
         this.sfxToggle = ["DISABLED", "ENABLED"]
 
         this.themeIndex = this.game.theme.index
